@@ -1,1 +1,0 @@
-# fruits_and_vegetables_recognition_fvrs_streamlit
